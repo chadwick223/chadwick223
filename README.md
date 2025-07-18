@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  anything that takes my intrest tbh.i aint afraid of learning new language just for the project that got me intrigged
 - 📫 How to reach me  satvikshukla955923@gmail.com
 - 😄 Pronouns: lol he
-- ⚡ Fun fact: i stil want to be an esport player and a skketch artist
+- ⚡ Fun fact: i stil want to be an esport player and a sketch artist
 
 <!---
 chadwick223/chadwick223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
