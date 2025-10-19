@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chadwick223
+- 👋 Hi, I’m satvik shukla
 - 👀 I’m interested in web devs and gen ai stuff, honestly i just wanted to create a website so i could sell my sketches,then i wanted to be an e sport player lol now i want to be a web developer
 - 🌱 I’m currently learning full stack as of now but also i am trying to keep up with gen ai stuff
 - 💞️ I’m looking to collaborate on  anything that takes my intrest tbh.i aint afraid of learning new language just for the project that got me intrigged
