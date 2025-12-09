@@ -5,6 +5,7 @@
 - 📫 How to reach me  satvikshukla955923@gmail.com
 - 😄 Pronouns: lol he
 - ⚡ Fun fact: i stil want to be an esport player and a sketch artist
+- update:- I realised I hate writing readme files (don't hate me if i use a lil bit of ai there)
 
 <!---
 chadwick223/chadwick223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
