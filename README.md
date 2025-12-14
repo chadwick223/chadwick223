@@ -1,11 +1,11 @@
-- 👋 Hi, I’m satvik shukla
-- 👀 I’m interested in web devs and gen ai stuff, honestly i just wanted to create a website so i could sell my sketches,then i wanted to be an e sport player lol now i want to be a web developer
-- 🌱 I’m currently learning full stack as of now but also i am trying to keep up with gen ai stuff
-- 💞️ I’m looking to collaborate on  anything that takes my intrest tbh.i aint afraid of learning new language just for the project that got me intrigged
+- 👋 Hi, I’m satvik 
+
 - 📫 How to reach me  satvikshukla955923@gmail.com
-- 😄 Pronouns: lol he
-- ⚡ Fun fact: i stil want to be an esport player and a sketch artist
-- update:- I realised I hate writing readme files (don't hate me if i use a lil bit of ai there)
+- update:- I realised I hate writing readme files
+- most prolly i'll be dead till the time anyone reads this so who cares anyways
+- it's my personal space so I write what i feel like.
+- Fuck you Fucking Fuckers (this is meant for recurters if you're not one of them then it's not for you)
+- well not like anyone's gonna read this 
 
 <!---
 chadwick223/chadwick223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
