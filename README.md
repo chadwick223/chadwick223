@@ -3,6 +3,7 @@
 - 📫 How to reach me  satvikshukla955923@gmail.com
 - update:- I realised I hate writing readme files
 - it's my personal space so kindly respect it
+- some how alive
   
 
 <!---
